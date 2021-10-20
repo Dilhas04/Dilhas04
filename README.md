@@ -6,7 +6,7 @@ I'm very interested in Machine Learning, Data Science, UX/UI Design and a bunch 
 <br />
 I'm always trying to learn something new about technology and its nuances.
 <br />
-You can find me on Linkedin https://www.linkedin.com/in/vitorrrondo/ | Behance https://www.behance.net/vitorrond | Twitter https://twitter.com/Dillas04
+You can find me on these links: <br /> Linkedin https://www.linkedin.com/in/vitorrrondo/ <br /> Behance https://www.behance.net/vitorrond <br /> Twitter https://twitter.com/Dillas04
 <br />
 Happy Coding and Kepp Ya Head Up :) 
 
